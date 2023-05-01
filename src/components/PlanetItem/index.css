@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.planet-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 250px;
+  width: 250px;
+}
+.name {
+  color: white;
+  font-family: Roboto;
+}
+.para {
+  text-align: center;
+  color: white;
+  max-width: 800px;
+}
